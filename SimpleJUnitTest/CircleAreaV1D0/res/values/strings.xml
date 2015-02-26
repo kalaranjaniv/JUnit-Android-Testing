@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CircleTimer</string>
+    <string name="InputMessage"> InputMessage</string>
+    <string name="menu_settings">Settings</string>
+    <string name="message1">Enter the value of radius</string>
+    <string name="message2">Enter the number of precision for PI(less than 16)</string>
+    <string name="calculate">Calculate</string>
+    <string name="message3">Area of Circle</string>
+    <string name="Exit">Exit</string>
+    <string name="result">0.00000000</string>
+    <string name="time">time1</string>
+    <string name="title">AREA/CIRCUMFERENCE OF A CIRCLE</string>
+    <string name="USTime">US time(Texas)</string>
+   	<string name="IndiaTime">India Time(Chennai)</string> 
+   	<string name="CaliforniaTime">US time(California)</string> 
+   	<string name="result1">0.00000000</string>
+   	<string name="message4">Circumference</string>
+   	<string name="clear">Clear</string>
+   	<string name="zero">0</string>
+   	<string name="zerodecimal">0.0</string>
+</resources>

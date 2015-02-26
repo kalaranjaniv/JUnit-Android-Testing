@@ -1,0 +1,13 @@
+Automated Testing Script
+------------------------
+Application name : TestCircleModelBased Version 0.0
+Applciation under test:CircleAreaV1D0.apk
+Softwares Required:Android SDK,Eclipse,Robotium.jar
+Pre-condition:
+i)CircleAreaV1D0 project should be able to compile and run properly.
+ii)Emulator should be rooted.
+
+Open eclipse and execute the application as an Android JUnit and wait for the emulator to install the application along with the application which is under test.(CircleAreaV1D0.apk)
+(If the test cases take more time,ensure that the updation time for the main activity has been increased in JobThread class as hr.postDelayed(this,4000)-This is a constraint which couldn't be resolved in robotium)
+
+Wait for the test cases to execute and observe the test results in JUnit tab.Please read the user-defined error messages for the list of errors and report it as a bug.(status as fail)
